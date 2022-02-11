@@ -10,6 +10,8 @@ Skills: JS / HTML / CSS / BOOTSTRAP / SCSS / REACT/ REDUX / REDUX TOOLKIT/ GIT
 - 📫 How to reach me: romerotato010@gmail.com 
 - ⚡ Fun fact: My hobbies are reading Light Novels and gym. 
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeroya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yan-latyshev/)  
 
