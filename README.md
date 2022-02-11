@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroya)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroya&show_icons=true)  
-
+ </p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zeroya)  
-  </p>
+ 
 
