@@ -13,7 +13,7 @@ Skills: JS / HTML / CSS / BOOTSTRAP / SCSS / REACT/ REDUX / REDUX TOOLKIT/ GIT
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="cheesits456's Top Languages" align="right" width="330">
 
 
-[<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c alt='github' height='40'>](https://github.com/zeroya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yan-latyshev/)  
+[<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c alt='github' height='40'>](https://github.com/zeroya)  [<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&hide=c' alt='linkedin' height='40'>](https://www.linkedin.com/in/yan-latyshev/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroya)](https://github.com/anuraghazra/github-readme-stats)
 
