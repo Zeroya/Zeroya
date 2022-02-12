@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yan e
+### Hi there 👋, my name is Yan 
 #### I am Front-end developer
 ![I am Front-end developer](https://giffiles.alphacoders.com/170/170171.gif)
 
